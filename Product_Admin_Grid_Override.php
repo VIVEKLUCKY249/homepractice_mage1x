@@ -1,4 +1,5 @@
 <?php
+//app\code\local\Mage\Adminhtml\Block\Catalog\Product\Grid.php
 /**
  * Magento
  *
